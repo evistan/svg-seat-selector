@@ -1,0 +1,16 @@
+.st5,
+.st0 {
+    fill: #ededed;
+    transition: fill 0.2s ease;
+}
+  
+.st5.hovered,
+.st0.hovered  {
+    fill: #a7a7a7;
+    cursor: pointer;
+}
+
+  text {
+    pointer-events: none;
+  }
+  
